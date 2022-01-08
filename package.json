@@ -1,0 +1,8 @@
+{
+  "name": "my-project-1",
+  "version": "1.0.0",
+  "description": "Twitter Clone",
+  "keywords": [],
+  "main": "index.html",
+  "dependencies": {}
+}
